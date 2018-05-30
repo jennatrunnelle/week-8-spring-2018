@@ -2,3 +2,48 @@ For this assignment I was only able to find one vulnerability under the Red site
 At first I tried clicking on find a salesperson on the green site and changed the id number in the website URL.
 It didn't work on the green site, but then it worked on the red  site. When I changed the id to 10 and 11 users
 popped up who were not shown before. This is an IDOR vulnerability on the public's side.
+
+
+# Project 8 - Pentesting Live Targets
+
+Time spent: **X** hours spent in total
+
+> Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
+
+The six possible exploits are:
+* Username Enumerat
+* Insecure Direct Object Reference (IDOR)
+* SQL Injection (SQLi)
+* Cross-Site Scripting (XSS)
+* Cross-Site Request Forgery (CSRF)
+* Session Hijacking/Fixation
+
+Each version of the site has been given two of the six vulnerabilities. (In other words, all six of the exploits should be assignable to one of the sites.)
+
+## Blue
+
+Vulnerability #1: ___________n/a_______
+  
+Vulnerability #2: __________n/a________
+
+
+## Green
+
+Vulnerability #1: _____n/a_____________
+
+Vulnerability #2: ______n/a____________
+
+
+## Red
+
+Vulnerability #1: ___IDOR_______________
+
+Vulnerability #2: __________________
+
+
+## Notes
+
+Describe any challenges encountered while doing the work
+
+Since there werent many hints I didn't really know what I was looking for. Couldnt find that many vulnerabilites. Needed better instructions.
+
