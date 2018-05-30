@@ -1,1 +1,4 @@
-For this assignment I was only able to find one vulnerability under the Red site.  At first I tried clicking on find a salesperson on the green site and changed the id number in the website URL. It didn't work on the green site, but then it worked on the red  site. When I changed the id to 10 and 11 users popped up who were not shown before. This is an IDOR vulnerability on the public's side.
+For this assignment I was only able to find one vulnerability under the Red site. 
+At first I tried clicking on find a salesperson on the green site and changed the id number in the website URL.
+It didn't work on the green site, but then it worked on the red  site. When I changed the id to 10 and 11 users
+popped up who were not shown before. This is an IDOR vulnerability on the public's side.
